@@ -1,3 +1,3 @@
 # Table of contents
 
-* [LS](README.md)
+* [Knapsack Problem](README.md)
