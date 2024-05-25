@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Knapsack Problem](README.md)
+* [readme](README.md)
+* [Knapsack Problem](knapsack-problem.md)
